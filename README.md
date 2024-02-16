@@ -1,6 +1,23 @@
 
-# Hi there, I'm Matheus Rodrigues!
-<br>🎓 About me:<br>🌍 I´m brazilean and live at São Paulo.<br>📚 Currently studying Start Tech at Totvs.<br>💻 Backend developer jr.<br><br>Professional interests:<br>🖥️ Deeply passionated by internet of things and automation.<br>📱 Developing intuitive and impactful cloud applications.<br>become a people lead<br><br>🌱 What I'm up to:<br>📖 Learning and improving my skills in for crafting easy and uncomplicated solutions.<br>🔄 Contributing to open-source projects that catch my interest.<br><br>📈 My goals:<br>🌟 To develop software that makes a difference.<br>🌐 To collaborate with technology education for black and peripheral youth<br><br>📫 Get in touch if you want to ask about html, css, js and java<br>💬 Feel free to reach out for collaborations or just a tech chat!<br>📧 My email: contato.matheusrodrigues3008@gmail.com<br><br>"Code is like humor. When you have to explain it, it’s bad." – Cory House
+# Hi, I'm Matheus Rodrigues! 👋
+## 🎓 About me:
+🌍 I´m brazilean and live at São Paulo.<br>
+📚 Currently studying Start Tech at Totvs.<br>💻 Backend developer jr.<br>
+
+## Professional interests:
+🖥️ Deeply passionated by internet of things and automation.<br>📱 Developing intuitive and impactful cloud applications.<br>become a people lead<br>
+## 🌱 What I'm up to:
+📖 Learning and improving my skills in for crafting easy and uncomplicated solutions.<br>
+🔄 Contributing to open-source projects that catch my interest.<br>
+
+## 📈 My goals:
+🌟 To develop software that makes a difference.<br>
+🌐 To collaborate with technology education for black and peripheral youth<br>
+## 📫 Get in touch if you want to ask about html, css, js and java<br>
+💬 Feel free to reach out for collaborations or just a tech chat!<br>
+📧 My email: contato.matheusrodrigues3008@gmail.com<br>
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
 ## 🌐 Socials:
