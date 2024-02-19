@@ -16,7 +16,7 @@
 ## 📫 Get in touch if you want to ask about html, css, js and java<br>
 💬 Feel free to reach out for collaborations or just a tech chat!<br>
 📧 My email: contato.matheusrodrigues3008@gmail.com<br>
-
+<hr> </hr>
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
