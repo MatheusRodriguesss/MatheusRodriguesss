@@ -10,8 +10,8 @@
 🖥️ Deeply passionate by internet of things and automation.<br>
 
 ## 🌱 What I'm up to:
-📖 Learning and improving my skills in for crafting easy and uncomplicated solutions.<br>
 🔄 Contributing to open-source projects that catch my interest.<br>
+📖 Learning and improving my skills in for crafting easy and uncomplicated solutions.<br>
 
 ## 📈 My goals:
 📱 Become a tech lead.<br>
